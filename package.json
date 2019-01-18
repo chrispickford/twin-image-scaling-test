@@ -1,0 +1,23 @@
+{
+  "name": "twin-image-scaling-test",
+  "version": "1.0.0",
+  "description": "twin-image-scaling-test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrispickford/twin-image-scaling-test.git"
+  },
+  "author": "Chris Pickford",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chrispickford/twin-image-scaling-test/issues"
+  },
+  "homepage": "https://github.com/chrispickford/twin-image-scaling-test#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "html5-boilerplate": "^6.1.0"
+  }
+}
